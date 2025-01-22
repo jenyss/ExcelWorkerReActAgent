@@ -2,6 +2,8 @@
 
 This is a specialized data analysis agent designed to process and analyze Excel files intelligently.
 
+If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
+
 **Core Architecture**
 * Built with the ReAct (Reasoning and Acting) agent pattern using LangChain
 * Uses GPT-4o as the underlying LLM
