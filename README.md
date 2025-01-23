@@ -20,6 +20,7 @@ If you have any questions or would like to collaborate, feel free to reach out t
 * Automatic data preprocessing
 * Supports complex SQL queries with WITH clauses
 * Built-in data visualization capabilities
+* Very well decorated print line allowing to follow the execution logic
 
 ## Intallation
 
