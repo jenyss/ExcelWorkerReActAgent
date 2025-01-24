@@ -1,4 +1,4 @@
-# ExcelWorkerReActAgent
+# Excel Worker ReAct (Reasoning and Acting) AI Agent using LangChain
 
 This Agent enabling analysis of Excel files using free-form queries as user input.
 
