@@ -1,6 +1,6 @@
 # ExcelWorkerReActAgent
 
-This is a specialized data analysis agent designed to process and analyze Excel files intelligently.
+This Agent enabling analysis of Excel files using free-form queries as user input.
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
 
