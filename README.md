@@ -10,9 +10,9 @@ If you have any questions or would like to collaborate, feel free to reach out t
 * Integrates DuckDB and Pandas for structured data processing
 
 **Main Tools**
-* preview_excel_structure: Analyzes the file structure and data types
-* complex_duckdb_query: Handles complex SQL operations (grouping, aggregations)
-* simple_dataframe_query: Executes row-level operations using Pandas
+* **preview_excel_structure**: Analyzes the file structure and data types
+* **complex_duckdb_query**: Handles complex SQL operations (grouping, aggregations)
+* **simple_dataframe_query**: Executes row-level operations using Pandas
 
 **Key Features**
 * Robust error handling and state management
@@ -21,6 +21,11 @@ If you have any questions or would like to collaborate, feel free to reach out t
 * Supports complex SQL queries with WITH clauses
 * Built-in data visualization capabilities
 * Very well decorated print line allowing to follow the execution logic
+
+**ReAct pattern guides the workflow**
+* **Input**: Excel file and a free-form user query.
+* **Intermediate Step**: The agent determines which tools to call and the best approach to answering the original user question.
+* **Output**: Execution result from the LLM generated query, answering the user query.
 
 ## Intallation
 
