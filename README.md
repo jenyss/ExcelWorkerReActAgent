@@ -1,6 +1,6 @@
 # Excel Worker ReAct (Reasoning and Acting) AI Agent using LangChain
 
-This Agent enables analysis of Excel files using free-form queries as user input. This is old LangChain 
+This Agent enables analysis of Excel files using free-form queries as user input. 
 
 > **Note:** This is an older LangChain-based implementation. I recommend re-creating it using LangGraph or checking out this [Google ADK implementation](https://github.com/jenyss/google-adk-voice-to-visualization-agent).
 
