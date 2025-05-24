@@ -2,7 +2,7 @@
 
 This Agent enables analysis of Excel files using free-form queries as user input. This is old LangChain 
 
-> Note: This is old LangChain based implementation. I would recommned to re-create it using LangGraph or check out the [Google ADK implementation](https://github.com/jenyss/google-adk-voice-to-visualization-agent)
+> **Note:** This is old LangChain based implementation. I would recommned to re-create it using LangGraph or check out the [Google ADK implementation](https://github.com/jenyss/google-adk-voice-to-visualization-agent)
 
 
 If you have any questions or would like to collaborate, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/jenya-stoeva-60477249/). You're more than welcome!
